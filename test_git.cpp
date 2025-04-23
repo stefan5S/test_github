@@ -1,9 +1,15 @@
 
 #include <iostream>
+using namespace std;
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int n = 7;
+
+    cout << "Hello World!\n";
+    cout << n;
+
 }
 
 
