@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FanePC\\Desktop\\test_git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C9058-E55C-4519-994A-A2E3ACC1CAB5}|test_git.vcxproj|C:\\Users\\FanePC\\Desktop\\test_git\\test_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F56C9058-E55C-4519-994A-A2E3ACC1CAB5}|test_git.vcxproj|solutionrelative:test_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_git.cpp",
+              "DocumentMoniker": "C:\\Users\\FanePC\\Desktop\\test_git\\test_git.cpp",
+              "RelativeDocumentMoniker": "test_git.cpp",
+              "ToolTip": "C:\\Users\\FanePC\\Desktop\\test_git\\test_git.cpp",
+              "RelativeToolTip": "test_git.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T11:43:05.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
